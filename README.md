@@ -15,9 +15,9 @@ Built for COP 3402 — Systems Software (Fall 2025).
 ---
 
 ## Files
-- `vm.c` — source code of the virtual machine:contentReference[oaicite:4]{index=4}.  
-- `input.txt` — sample program input:contentReference[oaicite:5]{index=5}.  
-- `sampleOut.txt` — reference execution trace:contentReference[oaicite:6]{index=6}.  
+- `vm.c` — source code of the virtual machine:contentReference
+- `input.txt` — sample program input:contentReference 
+- `sampleOut.txt` — reference execution trace:contentReference  
 
 ---
 
